@@ -1,6 +1,4 @@
-# kavya-burugu-portfolio
-
-Personal portfolio website for Kavya Burugu — Full Stack Engineer.
+Portfolio
 
 Built with Next.js 14 (App Router), Tailwind CSS, and TypeScript. Dark mode only. Fully responsive.
 
