@@ -19,7 +19,7 @@ const experiences = [
   },
   {
     company: 'Monas Soft Solutions',
-    role: 'Software Engineer (Intern → Junior)',
+    role: 'Software Engineer',
     period: 'Jul 2020 — Dec 2021',
     location: 'Hyderabad, India',
     description:
