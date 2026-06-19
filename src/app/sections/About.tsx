@@ -23,7 +23,7 @@ export default function About() {
                 OpenAI APIs to build features that reduce real manual work, not just demos.
               </p>
               <p>
-                I'm currently finishing my M.S. in Computer Science at Campbellsville University and actively 
+                I hold an M.S. in Computer Science from Campbellsville University and I'm actively 
                 targeting full-stack and backend engineering roles where I can own meaningful systems end-to-end.
               </p>
             </div>

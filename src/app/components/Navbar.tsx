@@ -20,8 +20,8 @@ export default function Navbar() {
       }`}
     >
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-        <a href="#hero" className="font-mono text-accent text-sm font-medium tracking-wider hover:opacity-80 transition-opacity">
-          KB<span className="text-muted">.</span>dev
+        <a href="#hero" className="font-mono text-accent text-sm font-medium tracking-wider hover:opacity-80 transition-opacity flex items-center gap-1">
+          <span className="text-muted">~/</span>kavya<span className="text-muted">.exec()</span>
         </a>
 
         {/* Desktop nav */}

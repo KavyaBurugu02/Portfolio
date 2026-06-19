@@ -79,7 +79,7 @@ export default function Hero() {
         >
           Full Stack Engineer with 4 years shipping production systems — cutting API latency by 45%, 
           automating CI/CD from weekly releases to daily, and integrating practical AI features into real-world applications. 
-          Currently completing an M.S. in Computer Science at Campbellsville University.
+          Holds an M.S. in Computer Science from Campbellsville University.
         </p>
 
         {/* Stats row */}
