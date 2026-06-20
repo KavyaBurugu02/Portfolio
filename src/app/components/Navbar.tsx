@@ -19,11 +19,7 @@ export default function Navbar() {
         scrolled ? 'bg-bg/90 backdrop-blur-md border-b border-border' : 'bg-transparent'
       }`}
     >
-      <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-        <a href="#hero" className="font-mono text-accent text-sm font-medium tracking-wider hover:opacity-80 transition-opacity flex items-center gap-1">
-          <span className="text-muted">~/</span>kavya<span className="text-muted">.exec()</span>
-        </a>
-
+      <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-end">
         {/* Desktop nav */}
         <div className="hidden md:flex items-center gap-8">
           {links.map((l) => (

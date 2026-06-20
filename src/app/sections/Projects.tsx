@@ -37,23 +37,6 @@ const projects = [
     github: 'https://github.com/KavyaBurugu02/Greenway-Residents-Portal',
     featured: true,
   },
-  {
-    name: 'Enterprise CI/CD Automation',
-    subtitle: 'Release Pipeline Optimization @ Wipro',
-    description:
-      'Redesigned the deployment pipeline for three enterprise applications, collapsing weekly release cycles into consistent bi-daily deployments through Jenkins, Docker, and GitHub Actions automation.',
-    highlights: [
-      '70% of deployment activities fully automated — from build trigger to production push',
-      'Release cadence: weekly → bi-daily with zero increase in incident rate',
-      '8 major releases delivered with on-time consistency and 96% automated test coverage',
-      'Orchestrated across 7-member cross-functional team with clear ownership boundaries',
-    ],
-    tech: ['Jenkins', 'Docker', 'GitHub Actions', 'Kubernetes', 'AWS EC2', 'Nginx'],
-    badge: 'Enterprise',
-    color: '#F59E0B',
-    github: 'https://github.com/KavyaBurugu02',
-    featured: false,
-  },
 ]
 
 export default function Projects() {
