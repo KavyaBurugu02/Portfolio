@@ -121,7 +121,7 @@ export default function Contact() {
           </div>
 
           <p className="mt-8 text-xs text-muted font-mono">
-            📍 Chicago,IL — open to remote, hybrid, or on-site
+            📍 Open to remote, hybrid, or on-site.
           </p>
         </div>
       </div>
