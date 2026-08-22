@@ -6,7 +6,7 @@ export default function Footer() {
           <span className="text-muted">~/</span>kavya<span className="text-muted">.exec()</span>
         </span>
         <span className="text-xs text-muted font-mono">
-          Kavya Burugu · Full Stack Engineer · Atlanta, GA
+          Kavya Burugu · Full Stack Engineer ·Chicago,IL.
         </span>
       </div>
     </footer>

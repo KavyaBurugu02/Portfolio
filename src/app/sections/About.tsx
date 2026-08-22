@@ -34,7 +34,7 @@ export default function About() {
             {[
               { icon: '🎓', label: 'Education', value: 'M.S. Computer Science — Campbellsville University' },
               { icon: '🏢', label: 'Last role', value: 'Full Stack Developer @ Wipro, Hyderabad (2022–2024)' },
-              { icon: '📍', label: 'Location', value: 'Atlanta, GA — open to remote & hybrid' },
+              { icon: '📍', label: 'Location', value: 'Chicago,IL — open to remote & hybrid' },
               { icon: '⚙️', label: 'Core stack', value: 'Java · Spring Boot · React.js · AWS · Docker' },
               { icon: '🤖', label: 'Current focus', value: 'Spring AI · OpenAI API · Microservices at scale' },
               { icon: '📜', label: 'Certified', value: 'AI Skills Fest 2026' },
