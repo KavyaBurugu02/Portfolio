@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Kavya Burugu — Full Stack Engineer',
-  description: 'Full Stack Software Engineer specializing in Java, Spring Boot, React.js, and cloud-native microservices architecture.',
-  keywords: ['Full Stack Developer', 'Java', 'Spring Boot', 'React', 'AWS', 'Microservices'],
+  title: 'Kavya Burugu — Full Stack Java Developer',
+  description: 'Full Stack Java Developer with 6+ years building enterprise applications, microservices, and AI-powered platforms using Spring Boot, React, Angular, Spring AI, and AWS Bedrock.',
+  keywords: ['Full Stack Java Developer', 'Spring Boot', 'React', 'Angular', 'AWS', 'Microservices', 'Spring AI', 'RAG'],
 }
 
 export default function RootLayout({

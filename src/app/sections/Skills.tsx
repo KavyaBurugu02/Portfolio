@@ -1,33 +1,48 @@
 const skillGroups = [
   {
-    category: 'Backend',
-    icon: '⚙️',
-    skills: ['Java (Core, OOP, Streams)', 'Spring Boot', 'Spring Security', 'Spring AI', 'Hibernate / JPA', 'Node.js', 'Express.js', 'REST API Design', 'Microservices', 'JWT / OAuth2'],
+    category: 'Languages',
+    icon: '💻',
+    skills: ['Java 8/11/17', 'JavaScript (ES6+)', 'TypeScript', 'Python', 'SQL'],
   },
   {
     category: 'Frontend',
     icon: '🖥️',
-    skills: ['React.js', 'TypeScript', 'JavaScript (ES6+)', 'Redux', 'Tailwind CSS', 'HTML5 / CSS3', 'Responsive Design', 'Webpack / Babel'],
+    skills: ['React.js', 'React Hooks', 'Redux', 'Context API', 'Angular', 'Material UI', 'Tailwind CSS', 'HTML5 / CSS3', 'Axios'],
   },
   {
-    category: 'Databases',
+    category: 'Backend & Frameworks',
+    icon: '⚙️',
+    skills: ['Spring Boot', 'Spring MVC', 'Spring Security', 'Spring Data JPA', 'Hibernate / JPA', 'REST API Design', 'Microservices', 'JWT / OAuth2'],
+  },
+  {
+    category: 'AI & Generative AI',
+    icon: '🤖',
+    skills: ['Spring AI', 'OpenAI API', 'AWS Bedrock', 'RAG (Retrieval-Augmented Generation)', 'Embeddings', 'Vector Search', 'Document Ingestion', 'Context Preparation'],
+  },
+  {
+    category: 'Databases & Storage',
     icon: '🗄️',
-    skills: ['MySQL', 'PostgreSQL', 'MongoDB', 'Redis', 'Query Optimization', 'Indexing Strategy', 'Transaction Management', 'JDBC / ORM'],
+    skills: ['MySQL', 'PostgreSQL', 'MongoDB', 'pgvector', 'JDBC', 'Query Optimization', 'Indexing', 'Transaction Management'],
+  },
+  {
+    category: 'Messaging & Integration',
+    icon: '📨',
+    skills: ['Apache Kafka', 'Kafka Producers / Consumers', 'Async Messaging', 'REST Service Integration', 'SendGrid API'],
   },
   {
     category: 'DevOps & Cloud',
     icon: '☁️',
-    skills: ['AWS (EC2, S3, Lambda)', 'Microsoft Azure', 'Docker', 'Kubernetes', 'Jenkins', 'GitHub Actions', 'CI/CD Pipelines', 'Nginx'],
+    skills: ['AWS (EC2, S3, ECS, Lambda, IAM)', 'AWS CloudWatch', 'AWS OpenSearch', 'Microsoft Azure', 'Docker', 'Kubernetes', 'Jenkins', 'CI/CD Pipelines'],
   },
   {
     category: 'Testing & QA',
     icon: '🧪',
-    skills: ['JUnit 5', 'Mockito', 'Selenium', 'Jest', 'Cypress', 'Postman', 'Integration Testing', 'Code Coverage'],
+    skills: ['JUnit 5', 'Mockito', 'Postman', 'JMeter', 'Integration Testing', 'RAG Evaluation Testing'],
   },
   {
-    category: 'AI & Tooling',
-    icon: '🤖',
-    skills: ['Spring AI', 'OpenAI API', 'Prompt Engineering', 'IntelliJ IDEA', 'VS Code', 'Maven / Gradle', 'Git / GitHub', 'Jira / Confluence'],
+    category: 'Tools & Collaboration',
+    icon: '🧰',
+    skills: ['Git / GitHub', 'Maven', 'IntelliJ IDEA', 'SLF4J / Logback', 'Jira / Confluence', 'Agile / Scrum'],
   },
 ]
 

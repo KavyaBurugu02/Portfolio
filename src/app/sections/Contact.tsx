@@ -6,13 +6,13 @@ export default function Contact() {
           <span className="font-mono text-accent text-xs tracking-widest uppercase">Let's talk</span>
           <h2 className="mt-3 text-3xl sm:text-4xl font-bold">Open to new roles</h2>
           <p className="mt-4 text-muted leading-relaxed">
-            I'm actively looking for full-stack or backend engineering roles where I can take ownership of 
+            I'm actively looking for full-stack or backend engineering roles where I can take ownership of
             meaningful systems. If you're building something ambitious — reach out. I respond to every message.
           </p>
 
           <div className="mt-8 space-y-4">
             <a
-              href="mailto:burugukavya025@gmail.com"
+              href="mailto:kavyaburugu07@gmail.com"
               className="flex items-center gap-4 p-4 rounded-xl border border-border bg-surface hover:border-accent/40 transition-colors group"
             >
               <div className="w-10 h-10 rounded-lg bg-accent/10 flex items-center justify-center flex-shrink-0 group-hover:bg-accent/20 transition-colors">
@@ -22,7 +22,7 @@ export default function Contact() {
               </div>
               <div>
                 <div className="text-xs text-muted font-mono uppercase tracking-wider">Email</div>
-                <div className="text-accent text-sm mt-0.5">burugukavya025@gmail.com</div>
+                <div className="text-accent text-sm mt-0.5">kavyaburugu07@gmail.com</div>
               </div>
               <svg
                 className="ml-auto text-muted group-hover:text-accent transition-colors"
@@ -94,7 +94,7 @@ export default function Contact() {
             </a>
 
             <a
-              href="tel:+14702326666"
+              href="tel:+19432396282"
               className="flex items-center gap-4 p-4 rounded-xl border border-border bg-surface hover:border-accent/40 transition-colors group"
             >
               <div className="w-10 h-10 rounded-lg bg-accent/10 flex items-center justify-center flex-shrink-0 group-hover:bg-accent/20 transition-colors">
@@ -104,7 +104,7 @@ export default function Contact() {
               </div>
               <div>
                 <div className="text-xs text-muted font-mono uppercase tracking-wider">Phone</div>
-                <div className="text-accent text-sm mt-0.5">+1 470-232-6666</div>
+                <div className="text-accent text-sm mt-0.5">+1 943-239-6282</div>
               </div>
               <svg
                 className="ml-auto text-muted group-hover:text-accent transition-colors"

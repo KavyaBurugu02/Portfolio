@@ -1,7 +1,7 @@
 'use client'
 import { useEffect, useState } from 'react'
 
-const words = ['Microservices', 'REST APIs', 'Cloud Systems', 'Full Stack Apps', 'AI-Powered Tools']
+const words = ['Microservices', 'REST APIs', 'AI-Powered Systems', 'RAG Pipelines', 'Full Stack Apps']
 
 export default function Hero() {
   const [wordIndex, setWordIndex] = useState(0)
@@ -77,9 +77,9 @@ export default function Hero() {
           className="mt-6 max-w-2xl text-muted leading-relaxed text-base sm:text-lg animate-fade-up"
           style={{ animationDelay: '0.4s', animationFillMode: 'both' }}
         >
-          Full Stack Engineer with 4 years shipping production systems — cutting API latency by 45%, 
-          automating CI/CD from weekly releases to daily, and integrating practical AI features into real-world applications. 
-          Holds an M.S. in Computer Science from Campbellsville University.
+          Full Stack Java Developer with 6+ years building enterprise applications and microservices — from
+          loan servicing systems to AI-powered platforms using Retrieval-Augmented Generation, Spring AI, and
+          AWS Bedrock. M.S. in Computer Science from Campbellsville University.
         </p>
 
         {/* Stats row */}
@@ -88,10 +88,10 @@ export default function Hero() {
           style={{ animationDelay: '0.5s', animationFillMode: 'both' }}
         >
           {[
-            { value: '4+', label: 'Years experience' },
-            { value: '45%', label: 'API latency cut' },
-            { value: '96%', label: 'Test coverage' },
-            { value: '50K+', label: 'Peak concurrent users' },
+            { value: '6+', label: 'Years experience' },
+            { value: '3', label: 'Enterprise employers' },
+            { value: '88%', label: 'MedSync test coverage' },
+            { value: '42%', label: 'MedSync query speed gain' },
           ].map(({ value, label }) => (
             <div key={label} className="stat-card min-w-[120px]">
               <div className="text-2xl font-bold text-accent font-mono">{value}</div>

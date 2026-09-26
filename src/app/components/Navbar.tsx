@@ -28,7 +28,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="mailto:burugukavya025@gmail.com"
+            href="mailto:kavyaburugu07@gmail.com"
             className="glow-btn ml-2 px-4 py-1.5 rounded-md border border-accent/40 text-accent text-sm font-mono font-medium hover:border-accent transition-colors"
           >
             Hire me

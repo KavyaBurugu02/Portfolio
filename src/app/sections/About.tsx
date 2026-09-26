@@ -11,20 +11,20 @@ export default function About() {
             </h2>
             <div className="mt-6 space-y-4 text-muted leading-relaxed">
               <p>
-                My career started in Hyderabad, where I spent 2.5 years at Wipro building enterprise applications 
-                that real users depended on every day — systems handling 50,000+ concurrent users, with uptime and 
-                latency that couldn't slip. I learned quickly that the difference between code that works in staging 
-                and code that works in production is everything.
+                I've spent over six years building enterprise applications and microservices in Java and
+                Spring Boot — starting with a loan servicing platform at Bajaj Finserv, then service and
+                order-management systems at Wipro built with React, Angular, and Kafka-driven messaging.
               </p>
               <p>
-                On the backend, I think deeply about service boundaries, data access patterns, and what happens 
-                when things fail. On the frontend, I care about the experience connecting cleanly to the API layer — 
-                no leaky abstractions, no surprising behavior. More recently, I've been integrating Spring AI with 
-                OpenAI APIs to build features that reduce real manual work, not just demos.
+                Since late 2024, I've been at Medtronic working on AI-assisted platforms — Retrieval-Augmented
+                Generation pipelines built with Spring AI, AWS Bedrock, and OpenSearch, wired into secure,
+                role-gated document workflows so the right people see the right information before it ever
+                reaches an AI response.
               </p>
               <p>
-                I hold an M.S. in Computer Science from Campbellsville University and I'm actively 
-                targeting full-stack and backend engineering roles where I can own meaningful systems end-to-end.
+                I'm finishing an M.S. in Computer Science at Campbellsville University and I'm looking for
+                full-stack or backend roles where I can keep owning systems end-to-end — from the database up
+                through the API layer, and increasingly, how AI gets safely wired into real products.
               </p>
             </div>
           </div>
@@ -33,11 +33,11 @@ export default function About() {
           <div className="space-y-4">
             {[
               { icon: '🎓', label: 'Education', value: 'M.S. Computer Science — Campbellsville University' },
-              { icon: '🏢', label: 'Last role', value: 'Full Stack Developer @ Wipro, Hyderabad (2022–2024)' },
-              { icon: '📍', label: 'Location', value: 'United States of America' },
-              { icon: '⚙️', label: 'Core stack', value: 'Java · Spring Boot · React.js · AWS · Docker' },
-              { icon: '🤖', label: 'Current focus', value: 'Spring AI · OpenAI API · Microservices at scale' },
-              { icon: '📜', label: 'Certified', value: 'AI Skills Fest 2026' },
+              { icon: '🏢', label: 'Current role', value: 'Full Stack Java Developer with AI Integration @ Medtronic' },
+              { icon: '📍', label: 'Location', value: 'Atlanta, USA' },
+              { icon: '⚙️', label: 'Core stack', value: 'Java · Spring Boot · React · Angular · AWS' },
+              { icon: '🤖', label: 'Current focus', value: 'Spring AI · AWS Bedrock · RAG Workflows' },
+              { icon: '⏳', label: 'Experience', value: '6+ years across Bajaj Finserv, Wipro, and Medtronic' },
             ].map(({ icon, label, value }) => (
               <div
                 key={label}
