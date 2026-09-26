@@ -23,6 +23,7 @@ export default function About() {
               </p>
               <p>
                What I enjoy most is taking an idea from the initial requirements all the way to a working solution. Whether it’s building APIs, connecting services, working with cloud platforms, or integrating AI into an application, I like understanding how everything fits together and making it work reliably in practice.
+           </p>
             </div>
           </div>
 
