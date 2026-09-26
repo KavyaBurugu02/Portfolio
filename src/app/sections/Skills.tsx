@@ -54,7 +54,7 @@ export default function Skills() {
           <span className="font-mono text-accent text-xs tracking-widest uppercase">Capabilities</span>
           <h2 className="mt-3 text-3xl sm:text-4xl font-bold">Skills</h2>
           <p className="mt-3 text-muted max-w-xl">
-            Across the full stack — from data access layers to CI/CD pipelines to AI-powered feature integrations.
+            Across the full stack - from data access layers to CI/CD pipelines to AI-powered feature integrations.
           </p>
         </div>
 

@@ -16,16 +16,13 @@ export default function About() {
                 order-management systems at Wipro built with React, Angular, and Kafka-driven messaging.
               </p>
               <p>
-                Since late 2024, I've been at Medtronic working on AI-assisted platforms — Retrieval-Augmented
+                Since late 2024, I've been at Medtronic working on AI-assisted platforms - Retrieval-Augmented
                 Generation pipelines built with Spring AI, AWS Bedrock, and OpenSearch, wired into secure,
                 role-gated document workflows so the right people see the right information before it ever
                 reaches an AI response.
               </p>
               <p>
-                I'm finishing an M.S. in Computer Science at Campbellsville University and I'm looking for
-                full-stack or backend roles where I can keep owning systems end-to-end — from the database up
-                through the API layer, and increasingly, how AI gets safely wired into real products.
-              </p>
+               What I enjoy most is taking an idea from the initial requirements all the way to a working solution. Whether it’s building APIs, connecting services, working with cloud platforms, or integrating AI into an application, I like understanding how everything fits together and making it work reliably in practice.
             </div>
           </div>
 

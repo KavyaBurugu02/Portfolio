@@ -6,8 +6,11 @@ export default function Contact() {
           <span className="font-mono text-accent text-xs tracking-widest uppercase">Let's talk</span>
           <h2 className="mt-3 text-3xl sm:text-4xl font-bold">Open to new roles</h2>
           <p className="mt-4 text-muted leading-relaxed">
-            I'm actively looking for full-stack or backend engineering roles where I can take ownership of
-            meaningful systems. If you're building something ambitious — reach out. I respond to every message.
+            <p>
+  I’m always open to connecting with people working on interesting products and ideas. If you’re
+  building something meaningful or would like to talk about technology, feel free to reach out.
+</p>
+
           </p>
 
           <div className="mt-8 space-y-4">
@@ -104,7 +107,7 @@ export default function Contact() {
               </div>
               <div>
                 <div className="text-xs text-muted font-mono uppercase tracking-wider">Phone</div>
-                <div className="text-accent text-sm mt-0.5">+1 943-239-6282</div>
+                <div className="text-accent text-sm mt-0.5">+1 (943)239-6282</div>
               </div>
               <svg
                 className="ml-auto text-muted group-hover:text-accent transition-colors"

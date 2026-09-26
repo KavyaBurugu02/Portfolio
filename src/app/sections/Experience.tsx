@@ -14,7 +14,7 @@ const experiences = [
       'Built React SPA features (Hooks, Redux, Context API, Material UI) for submitting questions, reviewing AI-generated responses, expanding citations, and editing drafts',
       'Wrote JUnit 5/Mockito tests plus RAG evaluation and regression suites covering retrieval accuracy and citation correctness; used AWS CloudWatch for production troubleshooting and added timeouts/retries for Bedrock and downstream dependencies',
     ],
-    tech: ['Java 17', 'Spring Boot', 'Spring Security', 'PostgreSQL', 'pgvector', 'AWS Bedrock', 'AWS OpenSearch', 'React', 'JWT', 'AWS ECS', 'Docker'],
+    tech: ['Java 17', 'Spring Boot', 'Spring Security','RAG', 'PostgreSQL', 'pgvector', 'AWS Bedrock', 'AWS OpenSearch', 'React', 'JWT', 'AWS ECS', 'Docker'],
   },
   {
     company: 'Wipro',

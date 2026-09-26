@@ -16,7 +16,7 @@ const projects = [
     tech: ['Spring Boot', 'Spring AI', 'OpenAI API', 'JWT', 'MySQL', 'AWS S3', 'SendGrid', 'JUnit 5', 'Mockito', 'JMeter'],
     badge: 'Featured',
     color: '#6EE7B7',
-    github: 'https://github.com/KavyaBurugu02',
+    github: 'https://github.com/KavyaBurugu02/Rainbow-Hospitals',
     featured: true,
   },
 ]
